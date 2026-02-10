@@ -1,7 +1,7 @@
 #  Patient Care Classification System
 This project focuses on classifying patients into two categories:
-    In Care -> Requires hospitalization
-    Out Care -> Suitable for home care
+    Out Care -> Requires hospitalization
+    In Care -> Suitable for home care
     The classification is based on various health indicators, and machine learning models are used to make accurate predictions.
 
 ##  Dataset
